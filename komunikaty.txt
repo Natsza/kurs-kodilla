@@ -1,0 +1,7 @@
+/Users/nataliaszymanska/Desktop/Kodilla/learning-git-2/index.html
+  20:6  error  Element <p> is implicitly closed by sibling  no-implicit-close
+  21:6  error  Element <p> is implicitly closed by sibling  no-implicit-close
+  23:6  error  Element <p> is implicitly closed by sibling  no-implicit-close
+  24:6  error  Element <p> is implicitly closed by sibling  no-implicit-close
+
+✖ 4 problems (4 errors, 0 warnings)
